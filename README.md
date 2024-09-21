@@ -567,3 +567,9 @@ This example demonstrates the creation of a basic REST API with Spring Boot usin
 ---
 
 Each of these annotations and concepts provides you with the tools to build a complete RESTful API with Spring Boot while minimizing boilerplate code.
+----
+COURSE-PDF:
+----
+https://drive.google.com/file/d/1weDzGKzxICkdST1GS1kV_ekSoF9Z5qo1/view?usp=sharing
+-----
+
